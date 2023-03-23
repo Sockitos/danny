@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "735469417489",
+    "firebase_url": "https://dan-ist.firebaseio.com",
+    "project_id": "dan-ist",
+    "storage_bucket": "dan-ist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735469417489:android:854f35f677c1759cd56db0",
+        "android_client_info": {
+          "package_name": "com.example.danny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735469417489-7noamg8i3jt5hoe3s20c504c10th53a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALdtjL-bbafrGos_UVz29avrwhv8DEvAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735469417489-7noamg8i3jt5hoe3s20c504c10th53a5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735469417489-bo6qtc19o87l3sc3unv248rrkmgcjc88.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.danny"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
